@@ -11,3 +11,4 @@ for i in range(int(strw[0]),int(strw[1])+1):
     strw2.append(str(i))
 
 print(' '.join(strw2))
+print("Adios")
